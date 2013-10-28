@@ -1,0 +1,2 @@
+In AngularJS, all the special HTML tags and attributes that the framework can understand and interpret are referred to as directives.
+
